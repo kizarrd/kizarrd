@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 -->
 
 ### 🛠
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,figma,vscode,git,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,nodejs,mongodb,figma,vscode,git,python)](https://skillicons.dev)
 
 ### ☕️
-[![My Skills](https://skillicons.dev/icons?i=ts,pug,sass,mui,webpack,netlify,postman,dart,flutter,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,pug,sass,mui,webpack,netlify,postman,tensorflow)](https://skillicons.dev)
 
 ### print('Hello, world!')
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kizarrd10)](https://solved.ac/kizarrd10/)
